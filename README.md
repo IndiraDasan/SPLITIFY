@@ -1,0 +1,2 @@
+# SPLITIFY
+SPLITIFY expense app
